@@ -1,5 +1,5 @@
 {
-	"name": "jenue",
+	"name": "jeune",
 	"description": "vue开发者平台",
 	"version": "1.0.0",
 	"scripts": {
@@ -12,7 +12,7 @@
 	},
 	"main": "index.js",
 	"bin": {
-		"gitm": "bin/jenue.js"
+		"jeune": "bin/jeune.js"
 	},
 	"dependencies": {
 		"regenerator-runtime": "0.13.7"
@@ -28,17 +28,17 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/saqqdy/jenue.git"
+		"url": "git+https://github.com/saqqdy/jeune.git"
 	},
 	"keywords": [
-		"jenue",
+		"jeune",
 		"vue",
 		"vue3.0"
 	],
 	"author": "saqqdy.com",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/saqqdy/jenue/issues"
+		"url": "https://github.com/saqqdy/jeune/issues"
 	},
-	"homepage": "https://github.com/saqqdy/jenue#readme"
+	"homepage": "https://github.com/saqqdy/jeune#readme"
 }
